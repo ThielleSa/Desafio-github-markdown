@@ -1,4 +1,4 @@
-# Desafio GitHub com markdown
+# Desafio GitHub com markdown 🥹
 
 <img src=https://cdn.dicionariopopular.com/imagens/cachorro-sorrindo.gif width=200 height=250>
 
